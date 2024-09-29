@@ -1,0 +1,108 @@
+[
+    {
+      "name": "The Great Gatsby",
+      "category": "Fiction",
+      "rentPerDay": 30
+    },
+    {
+      "name": "To Kill a Mockingbird",
+      "category": "Fiction",
+      "rentPerDay": 25
+    },
+    {
+      "name": "1984",
+      "category": "Dystopian",
+      "rentPerDay": 20
+    },
+    {
+      "name": "Pride and Prejudice",
+      "category": "Classic",
+      "rentPerDay": 15
+    },
+    {
+      "name": "The Catcher in the Rye",
+      "category": "Fiction",
+      "rentPerDay": 18
+    },
+    {
+      "name": "The Hobbit",
+      "category": "Fantasy",
+      "rentPerDay": 22
+    },
+    {
+      "name": "Moby Dick",
+      "category": "Classic",
+      "rentPerDay": 28
+    },
+    {
+      "name": "War and Peace",
+      "category": "Historical",
+      "rentPerDay": 35
+    },
+    {
+      "name": "The Alchemist",
+      "category": "Adventure",
+      "rentPerDay": 20
+    },
+    {
+      "name": "The Da Vinci Code",
+      "category": "Thriller",
+      "rentPerDay": 40
+    },
+    {
+      "name": "The Kite Runner",
+      "category": "Fiction",
+      "rentPerDay": 27
+    },
+    {
+      "name": "Sapiens: A Brief History of Humankind",
+      "category": "Non-Fiction",
+      "rentPerDay": 30
+    },
+    {
+      "name": "Becoming",
+      "category": "Biography",
+      "rentPerDay": 25
+    },
+    {
+      "name": "The Girl with the Dragon Tattoo",
+      "category": "Mystery",
+      "rentPerDay": 32
+    },
+    {
+      "name": "The Fault in Our Stars",
+      "category": "Romance",
+      "rentPerDay": 15
+    },
+    {
+      "name": "Educated",
+      "category": "Memoir",
+      "rentPerDay": 22
+    },
+    {
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "category": "Fantasy",
+      "rentPerDay": 30
+    },
+    {
+      "name": "The Power of Habit",
+      "category": "Self-Help",
+      "rentPerDay": 18
+    },
+    {
+      "name": "Atomic Habits",
+      "category": "Self-Help",
+      "rentPerDay": 20
+    },
+    {
+      "name": "The Subtle Art of Not Giving a F*ck",
+      "category": "Self-Help",
+      "rentPerDay": 15
+    },
+    {
+      "name": "The Brief Wondrous Life of Oscar Wao",
+      "category": "Fiction",
+      "rentPerDay": 28
+    }
+  ]
+  
